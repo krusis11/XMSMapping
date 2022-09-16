@@ -648,7 +648,7 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 23665,Redmi7A,Blue,330200051027,,Consumable,23665-Consumable,330200051027,Consumable,Adhesive-metal-Rear Camera-Redmi7A
 23665,Redmi7A,Blue,330200046050,,Consumable,23665-Consumable,330200046050,Consumable,adhesive-Sidekey-Redmi7A-big
 23665,Redmi7A,Blue,880500000B34,,Accessory,23665-Headset,880500000B34,Headset,Headset-FR-white-For Service Only
-23665,Redmi7A,Blue,"3,80025000000000E+18",,Structural Material,23665-Others,"3,80025000000000E+18",Others,Rear_Cam-Lens_Redmi7A
+23665,Redmi7A,Blue,"3,80025E+018",,Structural Material,23665-Others,"3,80025E+018",Others,Rear_Cam-Lens_Redmi7A
 23665,Redmi7A,Blue,552822300021,,Structural Material,23665-Back Shell,552822300021,Back Shell,Battery cover-C3E-Blue-EU/EN/RU
 23665,Redmi7A,Blue,552818800021,,Structural Material,23665-Others,552818800021,Others,Top_Frame_Assy_Redmi7A
 23665,Redmi7A,Blue,481098600050,,Accessory,23665-SIMCard Tray,481098600050,SIMCard Tray,Sim_Tray_assy_Blue_Redmi7A
@@ -710,7 +710,7 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 23666,Redmi7A,Black,330200048097,,Consumable,23666-Consumable,330200048097,Consumable,Conductive Cloth-Side Key FPC Assy-Redmi7A
 23666,Redmi7A,Black,330200051027,,Consumable,23666-Consumable,330200051027,Consumable,Adhesive-metal-Rear Camera-Redmi7A
 23666,Redmi7A,Black,330200046050,,Consumable,23666-Consumable,330200046050,Consumable,adhesive-Sidekey-Redmi7A-big
-23666,Redmi7A,Black,"3,80025000000000E+18",,Structural Material,23666-Others,"3,80025000000000E+18",Others,Rear_Cam-Lens_Redmi7A
+23666,Redmi7A,Black,"3,80025E+018",,Structural Material,23666-Others,"3,80025E+018",Others,Rear_Cam-Lens_Redmi7A
 23666,Redmi7A,Black,552822200021,,Structural Material,23666-Back Shell,552822200021,Back Shell,Battery cover-C3E-Black-EU/EN/RU
 23666,Redmi7A,Black,880500000B34,,Accessory,23666-Headset,880500000B34,Headset,Headset-FR-white-For Service Only
 23666,Redmi7A,Black,552818800021,,Structural Material,23666-Others,552818800021,Others,Top_Frame_Assy_Redmi7A
@@ -774,7 +774,7 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 23673,Redmi7A,Black,330200048097,,Consumable,23673-Consumable,330200048097,Consumable,Conductive Cloth-Side Key FPC Assy-Redmi7A
 23673,Redmi7A,Black,330200051027,,Consumable,23673-Consumable,330200051027,Consumable,Adhesive-metal-Rear Camera-Redmi7A
 23673,Redmi7A,Black,330200046050,,Consumable,23673-Consumable,330200046050,Consumable,adhesive-Sidekey-Redmi7A-big
-23673,Redmi7A,Black,"3,80025000000000E+18",,Structural Material,23673-Others,"3,80025000000000E+18",Others,Rear_Cam-Lens_Redmi7A
+23673,Redmi7A,Black,"3,80025E+018",,Structural Material,23673-Others,"3,80025E+018",Others,Rear_Cam-Lens_Redmi7A
 23673,Redmi7A,Black,552822200021,,Structural Material,23673-Back Shell,552822200021,Back Shell,Battery cover-C3E-Black-EU/EN/RU
 23673,Redmi7A,Black,880500000B34,,Accessory,23673-Headset,880500000B34,Headset,Headset-FR-white-For Service Only
 23673,Redmi7A,Black,320762100049,,Structural Material,23673-Others,320762100049,Others,Conductive Cloth-Receiver Magnetic Sheet-Redmi7A
@@ -838,7 +838,7 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 24259,Redmi7A,Gem Blue,330200048097,,Consumable,24259-Consumable,330200048097,Consumable,Conductive Cloth-Side Key FPC Assy-Redmi7A
 24259,Redmi7A,Gem Blue,330200051027,,Consumable,24259-Consumable,330200051027,Consumable,Adhesive-metal-Rear Camera-Redmi7A
 24259,Redmi7A,Gem Blue,330200046050,,Consumable,24259-Consumable,330200046050,Consumable,adhesive-Sidekey-Redmi7A-big
-24259,Redmi7A,Gem Blue,"3,80025000000000E+18",,Structural Material,24259-Others,"3,80025000000000E+18",Others,Rear_Cam-Lens_Redmi7A
+24259,Redmi7A,Gem Blue,"3,80025E+018",,Structural Material,24259-Others,"3,80025E+018",Others,Rear_Cam-Lens_Redmi7A
 24259,Redmi7A,Gem Blue,552822500097,,Structural Material,24259-Back Shell,552822500097,Back Shell,Battery cover-C3E-BlueGreen-EU/EN/RU
 24259,Redmi7A,Gem Blue,880500000B34,,Accessory,24259-Headset,880500000B34,Headset,Headset-FR-white-For Service Only
 24259,Redmi7A,Gem Blue,340108200050,,Structural Material,24259-Others,340108200050,Others,Side Key Assy-Redmi7A-Blue
@@ -891,7 +891,7 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 24592,Redmi7A,Lunar Red,330200048097,,Consumable,24592-Consumable,330200048097,Consumable,Conductive Cloth-Side Key FPC Assy-Redmi7A
 24592,Redmi7A,Lunar Red,330200051027,,Consumable,24592-Consumable,330200051027,Consumable,Adhesive-metal-Rear Camera-Redmi7A
 24592,Redmi7A,Lunar Red,330200046050,,Consumable,24592-Consumable,330200046050,Consumable,adhesive-Sidekey-Redmi7A-big
-24592,Redmi7A,Lunar Red,"3,80025000000000E+18",,Structural Material,24592-Others,"3,80025000000000E+18",Others,Rear_Cam-Lens_Redmi7A
+24592,Redmi7A,Lunar Red,"3,80025E+018",,Structural Material,24592-Others,"3,80025E+018",Others,Rear_Cam-Lens_Redmi7A
 24592,Redmi7A,Lunar Red,552822400021,,Structural Material,24592-Back Shell,552822400021,Back Shell,Battery cover-Redmi7A-BlackRed-EU
 24592,Redmi7A,Lunar Red,880500000B34,,Accessory,24592-Headset,880500000B34,Headset,Headset-FR-white-For Service Only
 24592,Redmi7A,Lunar Red,3207643000M4,,Structural Material,24592-Others,3207643000M4,Others,Lampshade Adhesive-Flash Light-Redmi7A
@@ -1241,9 +1241,9 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 22848,Redmi Note7,Black,301548300093,301548300097,Structural Material,22848-Others,"301548300093 , 301548300097",Others,fixed holder-key-F7
 22848,Redmi Note7,Black,301548900003,,Structural Material,22848-Others,301548900003,Others,Light Column-Light Indicator-RedmiNote7
 22848,Redmi Note7,Black,880500000B34,,Accessory,22848-Headset,880500000B34,Headset,Headset-FR-white-For Service Only
-22848,Redmi Note7,Black,"3,80016700000000E+18",,Structural Material,22848-Others,"3,80016700000000E+18",Others,Lens-Rear Camera-Redmi Note 7
-22848,Redmi Note7,Black,380016700025,"3,80016700000000E+18",Structural Material,22848-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
-22848,Redmi Note7,Black,"3,80025400000000E+18",,Structural Material,22848-Others,"3,80025400000000E+18",Others,Lens-Rear Camera-Redmi Note7
+22848,Redmi Note7,Black,"3,800167E+018",,Structural Material,22848-Others,"3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22848,Redmi Note7,Black,380016700025,"3,800167E+018",Structural Material,22848-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22848,Redmi Note7,Black,"3,800254E+018",,Structural Material,22848-Others,"3,800254E+018",Others,Lens-Rear Camera-Redmi Note7
 22848,Redmi Note7,Black,375197900037,,Structural Material,22848-Others,375197900037,Others,Rubber-audio jack-Redmi Note 7
 22848,Redmi Note7,Black,320665500049,,Structural Material,22848-Others,320665500049,Others,Radiating copper-front camera-Redmi Note 7
 22848,Redmi Note7,Black,8801A1221C13,,Accessory,22848-Protective Cover,8801A1221C13,Protective Cover,protective cover-Transparent-Redmi Note 7
@@ -1296,9 +1296,9 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 22849,Redmi Note7,Neptune Blue,301548900003,,Structural Material,22849-Others,301548900003,Others,Light Column-Light Indicator-RedmiNote7
 22849,Redmi Note7,Neptune Blue,301548300097,,Structural Material,22849-Others,301548300097,Others,fixed holder-key-F7
 22849,Redmi Note7,Neptune Blue,301548300093,301548300097,Structural Material,22849-Others,"301548300093 , 301548300097",Others,fixed holder-key-F7
-22849,Redmi Note7,Neptune Blue,"3,80016700000000E+18",,Structural Material,22849-Others,"3,80016700000000E+18",Others,Lens-Rear Camera-Redmi Note 7
-22849,Redmi Note7,Neptune Blue,380016700025,"3,80016700000000E+18",Structural Material,22849-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
-22849,Redmi Note7,Neptune Blue,"3,80025400000000E+18",,Structural Material,22849-Others,"3,80025400000000E+18",Others,Lens-Rear Camera-Redmi Note7
+22849,Redmi Note7,Neptune Blue,"3,800167E+018",,Structural Material,22849-Others,"3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22849,Redmi Note7,Neptune Blue,380016700025,"3,800167E+018",Structural Material,22849-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22849,Redmi Note7,Neptune Blue,"3,800254E+018",,Structural Material,22849-Others,"3,800254E+018",Others,Lens-Rear Camera-Redmi Note7
 22849,Redmi Note7,Neptune Blue,375197900037,,Structural Material,22849-Others,375197900037,Others,Rubber-audio jack-Redmi Note 7
 22849,Redmi Note7,Neptune Blue,320665500049,,Structural Material,22849-Others,320665500049,Others,Radiating copper-front camera-Redmi Note 7
 22849,Redmi Note7,Neptune Blue,8801A1221A13,,Accessory,22849-Protective Cover,8801A1221A13,Protective Cover,protective cover-Transparent-Redmi Note 7
@@ -1352,9 +1352,9 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 22850,Redmi Note7,Nebula Red,301548900003,,Structural Material,22850-Others,301548900003,Others,Light Column-Light Indicator-RedmiNote7
 22850,Redmi Note7,Nebula Red,301548300097,,Structural Material,22850-Others,301548300097,Others,fixed holder-key-F7
 22850,Redmi Note7,Nebula Red,301548300093,301548300097,Structural Material,22850-Others,"301548300093 , 301548300097",Others,fixed holder-key-F7
-22850,Redmi Note7,Nebula Red,"3,80016700000000E+18",,Structural Material,22850-Others,"3,80016700000000E+18",Others,Lens-Rear Camera-Redmi Note 7
-22850,Redmi Note7,Nebula Red,380016700025,"3,80016700000000E+18",Structural Material,22850-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
-22850,Redmi Note7,Nebula Red,"3,80025400000000E+18",,Structural Material,22850-Others,"3,80025400000000E+18",Others,Lens-Rear Camera-Redmi Note7
+22850,Redmi Note7,Nebula Red,"3,800167E+018",,Structural Material,22850-Others,"3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22850,Redmi Note7,Nebula Red,380016700025,"3,800167E+018",Structural Material,22850-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22850,Redmi Note7,Nebula Red,"3,800254E+018",,Structural Material,22850-Others,"3,800254E+018",Others,Lens-Rear Camera-Redmi Note7
 22850,Redmi Note7,Nebula Red,375197900037,,Structural Material,22850-Others,375197900037,Others,Rubber-audio jack-Redmi Note 7
 22850,Redmi Note7,Nebula Red,320665500049,,Structural Material,22850-Others,320665500049,Others,Radiating copper-front camera-Redmi Note 7
 22850,Redmi Note7,Nebula Red,8801A1221A13,,Accessory,22850-Protective Cover,8801A1221A13,Protective Cover,protective cover-Transparent-Redmi Note 7
@@ -1406,9 +1406,9 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 22864,Redmi Note7,Black,301548300097,,Structural Material,22864-Others,301548300097,Others,fixed holder-key-F7
 22864,Redmi Note7,Black,301548300093,301548300097,Structural Material,22864-Others,"301548300093 , 301548300097",Others,fixed holder-key-F7
 22864,Redmi Note7,Black,301548900003,,Structural Material,22864-Others,301548900003,Others,Light Column-Light Indicator-RedmiNote7
-22864,Redmi Note7,Black,"3,80016700000000E+18",,Structural Material,22864-Others,"3,80016700000000E+18",Others,Lens-Rear Camera-Redmi Note 7
-22864,Redmi Note7,Black,380016700025,"3,80016700000000E+18",Structural Material,22864-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
-22864,Redmi Note7,Black,"3,80025400000000E+18",,Structural Material,22864-Others,"3,80025400000000E+18",Others,Lens-Rear Camera-Redmi Note7
+22864,Redmi Note7,Black,"3,800167E+018",,Structural Material,22864-Others,"3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22864,Redmi Note7,Black,380016700025,"3,800167E+018",Structural Material,22864-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22864,Redmi Note7,Black,"3,800254E+018",,Structural Material,22864-Others,"3,800254E+018",Others,Lens-Rear Camera-Redmi Note7
 22864,Redmi Note7,Black,8801A1221C13,,Accessory,22864-Protective Cover,8801A1221C13,Protective Cover,protective cover-Transparent-Redmi Note 7
 22864,Redmi Note7,Black,880500000B34,,Accessory,22864-Headset,880500000B34,Headset,Headset-FR-white-For Service Only
 22864,Redmi Note7,Black,375197900037,,Structural Material,22864-Others,375197900037,Others,Rubber-audio jack-Redmi Note 7
@@ -1462,9 +1462,9 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 22865,Redmi Note7,Neptune Blue,301548900003,,Structural Material,22865-Others,301548900003,Others,Light Column-Light Indicator-RedmiNote7
 22865,Redmi Note7,Neptune Blue,301548300097,,Structural Material,22865-Others,301548300097,Others,fixed holder-key-F7
 22865,Redmi Note7,Neptune Blue,301548300093,301548300097,Structural Material,22865-Others,"301548300093 , 301548300097",Others,fixed holder-key-F7
-22865,Redmi Note7,Neptune Blue,"3,80016700000000E+18",,Structural Material,22865-Others,"3,80016700000000E+18",Others,Lens-Rear Camera-Redmi Note 7
-22865,Redmi Note7,Neptune Blue,380016700025,"3,80016700000000E+18",Structural Material,22865-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
-22865,Redmi Note7,Neptune Blue,"3,80025400000000E+18",,Structural Material,22865-Others,"3,80025400000000E+18",Others,Lens-Rear Camera-Redmi Note7
+22865,Redmi Note7,Neptune Blue,"3,800167E+018",,Structural Material,22865-Others,"3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22865,Redmi Note7,Neptune Blue,380016700025,"3,800167E+018",Structural Material,22865-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22865,Redmi Note7,Neptune Blue,"3,800254E+018",,Structural Material,22865-Others,"3,800254E+018",Others,Lens-Rear Camera-Redmi Note7
 22865,Redmi Note7,Neptune Blue,375197900037,,Structural Material,22865-Others,375197900037,Others,Rubber-audio jack-Redmi Note 7
 22865,Redmi Note7,Neptune Blue,320665500049,,Structural Material,22865-Others,320665500049,Others,Radiating copper-front camera-Redmi Note 7
 22865,Redmi Note7,Neptune Blue,8801A1221A13,,Accessory,22865-Protective Cover,8801A1221A13,Protective Cover,protective cover-Transparent-Redmi Note 7
@@ -1518,9 +1518,9 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 22866,Redmi Note7,Nebula Red,301548900003,,Structural Material,22866-Others,301548900003,Others,Light Column-Light Indicator-RedmiNote7
 22866,Redmi Note7,Nebula Red,301548300097,,Structural Material,22866-Others,301548300097,Others,fixed holder-key-F7
 22866,Redmi Note7,Nebula Red,301548300093,301548300097,Structural Material,22866-Others,"301548300093 , 301548300097",Others,fixed holder-key-F7
-22866,Redmi Note7,Nebula Red,"3,80016700000000E+18",,Structural Material,22866-Others,"3,80016700000000E+18",Others,Lens-Rear Camera-Redmi Note 7
-22866,Redmi Note7,Nebula Red,380016700025,"3,80016700000000E+18",Structural Material,22866-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
-22866,Redmi Note7,Nebula Red,"3,80025400000000E+18",,Structural Material,22866-Others,"3,80025400000000E+18",Others,Lens-Rear Camera-Redmi Note7
+22866,Redmi Note7,Nebula Red,"3,800167E+018",,Structural Material,22866-Others,"3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22866,Redmi Note7,Nebula Red,380016700025,"3,800167E+018",Structural Material,22866-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22866,Redmi Note7,Nebula Red,"3,800254E+018",,Structural Material,22866-Others,"3,800254E+018",Others,Lens-Rear Camera-Redmi Note7
 22866,Redmi Note7,Nebula Red,8801A1221A13,,Accessory,22866-Protective Cover,8801A1221A13,Protective Cover,protective cover-Transparent-Redmi Note 7
 22866,Redmi Note7,Nebula Red,880500000B34,,Accessory,22866-Headset,880500000B34,Headset,Headset-FR-white-For Service Only
 22866,Redmi Note7,Nebula Red,375197900037,,Structural Material,22866-Others,375197900037,Others,Rubber-audio jack-Redmi Note 7
@@ -1572,9 +1572,9 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 22884,Redmi Note7,Black,301548300097,,Structural Material,22884-Others,301548300097,Others,fixed holder-key-F7
 22884,Redmi Note7,Black,301548300093,301548300097,Structural Material,22884-Others,"301548300093 , 301548300097",Others,fixed holder-key-F7
 22884,Redmi Note7,Black,301548900003,,Structural Material,22884-Others,301548900003,Others,Light Column-Light Indicator-RedmiNote7
-22884,Redmi Note7,Black,"3,80016700000000E+18",,Structural Material,22884-Others,"3,80016700000000E+18",Others,Lens-Rear Camera-Redmi Note 7
-22884,Redmi Note7,Black,380016700025,"3,80016700000000E+18",Structural Material,22884-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
-22884,Redmi Note7,Black,"3,80025400000000E+18",,Structural Material,22884-Others,"3,80025400000000E+18",Others,Lens-Rear Camera-Redmi Note7
+22884,Redmi Note7,Black,"3,800167E+018",,Structural Material,22884-Others,"3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22884,Redmi Note7,Black,380016700025,"3,800167E+018",Structural Material,22884-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22884,Redmi Note7,Black,"3,800254E+018",,Structural Material,22884-Others,"3,800254E+018",Others,Lens-Rear Camera-Redmi Note7
 22884,Redmi Note7,Black,375197900037,,Structural Material,22884-Others,375197900037,Others,Rubber-audio jack-Redmi Note 7
 22884,Redmi Note7,Black,320665500049,,Structural Material,22884-Others,320665500049,Others,Radiating copper-front camera-Redmi Note 7
 22884,Redmi Note7,Black,8801A1221C13,,Accessory,22884-Protective Cover,8801A1221C13,Protective Cover,protective cover-Transparent-Redmi Note 7
@@ -1630,9 +1630,9 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 22885,Redmi Note7,Neptune Blue,301548300093,301548300097,Structural Material,22885-Others,"301548300093 , 301548300097",Others,fixed holder-key-F7
 22885,Redmi Note7,Neptune Blue,8801A1221A13,,Accessory,22885-Protective Cover,8801A1221A13,Protective Cover,protective cover-Transparent-Redmi Note 7
 22885,Redmi Note7,Neptune Blue,880500000B34,,Accessory,22885-Headset,880500000B34,Headset,Headset-FR-white-For Service Only
-22885,Redmi Note7,Neptune Blue,"3,80016700000000E+18",,Structural Material,22885-Others,"3,80016700000000E+18",Others,Lens-Rear Camera-Redmi Note 7
-22885,Redmi Note7,Neptune Blue,380016700025,"3,80016700000000E+18",Structural Material,22885-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
-22885,Redmi Note7,Neptune Blue,"3,80025400000000E+18",,Structural Material,22885-Others,"3,80025400000000E+18",Others,Lens-Rear Camera-Redmi Note7
+22885,Redmi Note7,Neptune Blue,"3,800167E+018",,Structural Material,22885-Others,"3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22885,Redmi Note7,Neptune Blue,380016700025,"3,800167E+018",Structural Material,22885-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22885,Redmi Note7,Neptune Blue,"3,800254E+018",,Structural Material,22885-Others,"3,800254E+018",Others,Lens-Rear Camera-Redmi Note7
 22885,Redmi Note7,Neptune Blue,375197900037,,Structural Material,22885-Others,375197900037,Others,Rubber-audio jack-Redmi Note 7
 22885,Redmi Note7,Neptune Blue,320665500049,,Structural Material,22885-Others,320665500049,Others,Radiating copper-front camera-Redmi Note 7
 22885,Redmi Note7,Neptune Blue,301549500003,,Structural Material,22885-Others,301549500003,Others,Garnish assy-Receiver-Redmi Note 7
@@ -1684,9 +1684,9 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 22886,Redmi Note7,Nebula Red,4850873000F2,4830363250B3,Structural Material,22886-FPCClass ,"4850873000F2 , 4830363250B3",FPCClass ,FPC Assy-Side Key
 22886,Redmi Note7,Nebula Red,301548300097,,Structural Material,22886-Others,301548300097,Others,fixed holder-key-F7
 22886,Redmi Note7,Nebula Red,301548300093,301548300097,Structural Material,22886-Others,"301548300093 , 301548300097",Others,fixed holder-key-F7
-22886,Redmi Note7,Nebula Red,"3,80016700000000E+18",,Structural Material,22886-Others,"3,80016700000000E+18",Others,Lens-Rear Camera-Redmi Note 7
-22886,Redmi Note7,Nebula Red,380016700025,"3,80016700000000E+18",Structural Material,22886-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
-22886,Redmi Note7,Nebula Red,"3,80025400000000E+18",,Structural Material,22886-Others,"3,80025400000000E+18",Others,Lens-Rear Camera-Redmi Note7
+22886,Redmi Note7,Nebula Red,"3,800167E+018",,Structural Material,22886-Others,"3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22886,Redmi Note7,Nebula Red,380016700025,"3,800167E+018",Structural Material,22886-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+22886,Redmi Note7,Nebula Red,"3,800254E+018",,Structural Material,22886-Others,"3,800254E+018",Others,Lens-Rear Camera-Redmi Note7
 22886,Redmi Note7,Nebula Red,8801A1221A13,,Accessory,22886-Protective Cover,8801A1221A13,Protective Cover,protective cover-Transparent-Redmi Note 7
 22886,Redmi Note7,Nebula Red,880500000B34,,Accessory,22886-Headset,880500000B34,Headset,Headset-FR-white-For Service Only
 22886,Redmi Note7,Nebula Red,375197900037,,Structural Material,22886-Others,375197900037,Others,Rubber-audio jack-Redmi Note 7
@@ -1738,9 +1738,9 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 24614,Redmi Note7,White,3206644000L6,,Consumable,24614-Consumable,3206644000L6,Consumable,Decorative Seal Adhesive-Rear Camera-F7
 24614,Redmi Note7,White,301548300097,,Structural Material,24614-Others,301548300097,Others,fixed holder-key-F7
 24614,Redmi Note7,White,301548300093,301548300097,Structural Material,24614-Others,"301548300093 , 301548300097",Others,fixed holder-key-F7
-24614,Redmi Note7,White,"3,80016700000000E+18",,Structural Material,24614-Others,"3,80016700000000E+18",Others,Lens-Rear Camera-Redmi Note 7
-24614,Redmi Note7,White,380016700025,"3,80016700000000E+18",Structural Material,24614-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
-24614,Redmi Note7,White,"3,80025400000000E+18",,Structural Material,24614-Others,"3,80025400000000E+18",Others,Lens-Rear Camera-Redmi Note7
+24614,Redmi Note7,White,"3,800167E+018",,Structural Material,24614-Others,"3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+24614,Redmi Note7,White,380016700025,"3,800167E+018",Structural Material,24614-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+24614,Redmi Note7,White,"3,800254E+018",,Structural Material,24614-Others,"3,800254E+018",Others,Lens-Rear Camera-Redmi Note7
 24614,Redmi Note7,White,375197900037,,Structural Material,24614-Others,375197900037,Others,Rubber-audio jack-Redmi Note 7
 24614,Redmi Note7,White,320665500049,,Structural Material,24614-Others,320665500049,Others,Radiating copper-front camera-Redmi Note 7
 24614,Redmi Note7,White,8801A1221A13,,Accessory,24614-Protective Cover,8801A1221A13,Protective Cover,protective cover-Transparent-Redmi Note 7
@@ -1794,9 +1794,9 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 24615,Redmi Note7,White,301548300093,301548300097,Structural Material,24615-Others,"301548300093 , 301548300097",Others,fixed holder-key-F7
 24615,Redmi Note7,White,375197900037,,Structural Material,24615-Others,375197900037,Others,Rubber-audio jack-Redmi Note 7
 24615,Redmi Note7,White,320665500049,,Structural Material,24615-Others,320665500049,Others,Radiating copper-front camera-Redmi Note 7
-24615,Redmi Note7,White,"3,80016700000000E+18",,Structural Material,24615-Others,"3,80016700000000E+18",Others,Lens-Rear Camera-Redmi Note 7
-24615,Redmi Note7,White,380016700025,"3,80016700000000E+18",Structural Material,24615-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
-24615,Redmi Note7,White,"3,80025400000000E+18",,Structural Material,24615-Others,"3,80025400000000E+18",Others,Lens-Rear Camera-Redmi Note7
+24615,Redmi Note7,White,"3,800167E+018",,Structural Material,24615-Others,"3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+24615,Redmi Note7,White,380016700025,"3,800167E+018",Structural Material,24615-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+24615,Redmi Note7,White,"3,800254E+018",,Structural Material,24615-Others,"3,800254E+018",Others,Lens-Rear Camera-Redmi Note7
 24615,Redmi Note7,White,8801A1221A13,,Accessory,24615-Protective Cover,8801A1221A13,Protective Cover,protective cover-Transparent-Redmi Note 7
 24615,Redmi Note7,White,880500000B34,,Accessory,24615-Headset,880500000B34,Headset,Headset-FR-white-For Service Only
 24615,Redmi Note7,White,301549500003,,Structural Material,24615-Others,301549500003,Others,Garnish assy-Receiver-Redmi Note 7
@@ -1848,9 +1848,9 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 24616,Redmi Note7,White,301548300093,301548300097,Structural Material,24616-Others,"301548300093 , 301548300097",Others,fixed holder-key-F7
 24616,Redmi Note7,White,8801A1221A13,,Accessory,24616-Protective Cover,8801A1221A13,Protective Cover,protective cover-Transparent-Redmi Note 7
 24616,Redmi Note7,White,880500000B34,,Accessory,24616-Headset,880500000B34,Headset,Headset-FR-white-For Service Only
-24616,Redmi Note7,White,"3,80016700000000E+18",,Structural Material,24616-Others,"3,80016700000000E+18",Others,Lens-Rear Camera-Redmi Note 7
-24616,Redmi Note7,White,380016700025,"3,80016700000000E+18",Structural Material,24616-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
-24616,Redmi Note7,White,"3,80025400000000E+18",,Structural Material,24616-Others,"3,80025400000000E+18",Others,Lens-Rear Camera-Redmi Note7
+24616,Redmi Note7,White,"3,800167E+018",,Structural Material,24616-Others,"3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+24616,Redmi Note7,White,380016700025,"3,800167E+018",Structural Material,24616-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+24616,Redmi Note7,White,"3,800254E+018",,Structural Material,24616-Others,"3,800254E+018",Others,Lens-Rear Camera-Redmi Note7
 24616,Redmi Note7,White,375197900037,,Structural Material,24616-Others,375197900037,Others,Rubber-audio jack-Redmi Note 7
 24616,Redmi Note7,White,320665500049,,Structural Material,24616-Others,320665500049,Others,Radiating copper-front camera-Redmi Note 7
 24616,Redmi Note7,White,301549500003,,Structural Material,24616-Others,301549500003,Others,Garnish assy-Receiver-Redmi Note 7
@@ -1901,9 +1901,9 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 24963,Redmi Note7,Black,320665600049,320664300049,Consumable,24963-Consumable,"320665600049 , 320664300049",Consumable,Lens Adhesive-Rear Camera Decorative-RedmiNote7
 24963,Redmi Note7,Black,3206644000L6,,Consumable,24963-Consumable,3206644000L6,Consumable,Decorative Seal Adhesive-Rear Camera-F7
 24963,Redmi Note7,Black,8801A1221C13,,Accessory,24963-Protective Cover,8801A1221C13,Protective Cover,protective cover-Transparent-Redmi Note 7
-24963,Redmi Note7,Black,"3,80016700000000E+18",,Structural Material,24963-Others,"3,80016700000000E+18",Others,Lens-Rear Camera-Redmi Note 7
-24963,Redmi Note7,Black,380016700025,"3,80016700000000E+18",Structural Material,24963-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
-24963,Redmi Note7,Black,"3,80025400000000E+18","3,80016700000000E+18",Structural Material,24963-Others,"3,800254E+018 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note7
+24963,Redmi Note7,Black,"3,800167E+018",,Structural Material,24963-Others,"3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+24963,Redmi Note7,Black,380016700025,"3,800167E+018",Structural Material,24963-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+24963,Redmi Note7,Black,"3,800254E+018","3,800167E+018",Structural Material,24963-Others,"3,800254E+018 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note7
 24963,Redmi Note7,Black,375197900037,,Structural Material,24963-Others,375197900037,Others,Rubber-audio jack-Redmi Note 7
 24963,Redmi Note7,Black,320665500049,,Structural Material,24963-Others,320665500049,Others,Radiating copper-front camera-Redmi Note 7
 24963,Redmi Note7,Black,301549500003,,Structural Material,24963-Others,301549500003,Others,Garnish assy-Receiver-Redmi Note 7
@@ -1956,9 +1956,9 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 24964,Redmi Note7,Neptune Blue,301548300097,,Structural Material,24964-Others,301548300097,Others,fixed holder-key-F7
 24964,Redmi Note7,Neptune Blue,301548300093,301548300097,Structural Material,24964-Others,"301548300093 , 301548300097",Others,fixed holder-key-F7
 24964,Redmi Note7,Neptune Blue,8801A1221A13,,Accessory,24964-Protective Cover,8801A1221A13,Protective Cover,protective cover-Transparent-Redmi Note 7
-24964,Redmi Note7,Neptune Blue,"3,80016700000000E+18",,Structural Material,24964-Others,"3,80016700000000E+18",Others,Lens-Rear Camera-Redmi Note 7
-24964,Redmi Note7,Neptune Blue,380016700025,"3,80016700000000E+18",Structural Material,24964-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
-24964,Redmi Note7,Neptune Blue,"3,80025400000000E+18","3,80016700000000E+18",Structural Material,24964-Others,"3,800254E+018 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note7
+24964,Redmi Note7,Neptune Blue,"3,800167E+018",,Structural Material,24964-Others,"3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+24964,Redmi Note7,Neptune Blue,380016700025,"3,800167E+018",Structural Material,24964-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+24964,Redmi Note7,Neptune Blue,"3,800254E+018","3,800167E+018",Structural Material,24964-Others,"3,800254E+018 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note7
 24964,Redmi Note7,Neptune Blue,375197900037,,Structural Material,24964-Others,375197900037,Others,Rubber-audio jack-Redmi Note 7
 24964,Redmi Note7,Neptune Blue,320665500049,,Structural Material,24964-Others,320665500049,Others,Radiating copper-front camera-Redmi Note 7
 24964,Redmi Note7,Neptune Blue,301549500003,,Structural Material,24964-Others,301549500003,Others,Garnish assy-Receiver-Redmi Note 7
@@ -2010,9 +2010,9 @@ Goods ID,Level One Model,The Color ,PN,Alternative PN,Material Item Category,ID,
 24965,Redmi Note7,Nebula Red,3206644000L6,,Consumable,24965-Consumable,3206644000L6,Consumable,Decorative Seal Adhesive-Rear Camera-F7
 24965,Redmi Note7,Nebula Red,301548300097,,Structural Material,24965-Others,301548300097,Others,fixed holder-key-F7
 24965,Redmi Note7,Nebula Red,301548300093,301548300097,Structural Material,24965-Others,"301548300093 , 301548300097",Others,fixed holder-key-F7
-24965,Redmi Note7,Nebula Red,"3,80016700000000E+18",,Structural Material,24965-Others,"3,80016700000000E+18",Others,Lens-Rear Camera-Redmi Note 7
-24965,Redmi Note7,Nebula Red,380016700025,"3,80016700000000E+18",Structural Material,24965-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
-24965,Redmi Note7,Nebula Red,"3,80025400000000E+18","3,80016700000000E+18",Structural Material,24965-Others,"3,800254E+018 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note7
+24965,Redmi Note7,Nebula Red,"3,800167E+018",,Structural Material,24965-Others,"3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+24965,Redmi Note7,Nebula Red,380016700025,"3,800167E+018",Structural Material,24965-Others,"380016700025 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note 7
+24965,Redmi Note7,Nebula Red,"3,800254E+018","3,800167E+018",Structural Material,24965-Others,"3,800254E+018 , 3,800167E+018",Others,Lens-Rear Camera-Redmi Note7
 24965,Redmi Note7,Nebula Red,8801A1221A13,,Accessory,24965-Protective Cover,8801A1221A13,Protective Cover,protective cover-Transparent-Redmi Note 7
 24965,Redmi Note7,Nebula Red,375197900037,,Structural Material,24965-Others,375197900037,Others,Rubber-audio jack-Redmi Note 7
 24965,Redmi Note7,Nebula Red,320665500049,,Structural Material,24965-Others,320665500049,Others,Radiating copper-front camera-Redmi Note 7
